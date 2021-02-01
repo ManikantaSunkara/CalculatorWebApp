@@ -1,0 +1,53 @@
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.deps.json
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.runtimeconfig.json
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.runtimeconfig.dev.json
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.dll
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csprojAssemblyReference.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csproj.CoreCompileInputs.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorAssemblyInfo.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorAssemblyInfo.cs
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.AssemblyInfoInputs.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.AssemblyInfo.cs
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.TagHelpers.input.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.TagHelpers.output.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorCoreGenerate.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorTargetAssemblyInfo.cs
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.pdb
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.Views.dll
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.Views.pdb
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.Views.pdb
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.dll
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.pdb
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csproj.CopyComplete
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\David\Dropbox\Programming\PHP\Projects\itnetwork\ictsocial projects\c#\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.deps.json
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.runtimeconfig.json
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.runtimeconfig.dev.json
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.dll
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.pdb
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.Views.dll
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\bin\Debug\netcoreapp2.1\MVCCalculator.Views.pdb
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csprojAssemblyReference.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.AssemblyInfoInputs.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.AssemblyInfo.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csproj.CoreCompileInputs.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorAssemblyInfo.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorAssemblyInfo.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.TagHelpers.input.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.TagHelpers.output.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorCoreGenerate.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.RazorTargetAssemblyInfo.cs
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.Views.pdb
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.dll
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.pdb
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.genruntimeconfig.cache
+C:\Users\monika\CalculatorWebApp\MVCCalculator\MVCCalculator\obj\Debug\netcoreapp2.1\MVCCalculator.csproj.CopyComplete

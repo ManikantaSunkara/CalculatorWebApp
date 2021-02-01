@@ -1,0 +1,57 @@
+﻿@model MVCCalculator.Models.Calculator
+
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<head>
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+    <h2>
+        Calculator
+        @if (ViewBag.Name != null)
+        {
+            <text> for @ViewBag.Name</text>
+        }
+    </h2>
+
+    <h4>Calculator</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Index">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Number1" class="control-label"></label>
+                    <br />
+                    <input asp-for="Number1" class="form-control" />
+                    <span asp-validation-for="Number1" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Number2" class="control-label"></label>
+                    <br />
+                    <input asp-for="Number2" class="form-control" />
+                    <span asp-validation-for="Number2" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Operation" class="control-label"></label>
+                    <br />
+                    @Html.DropDownListFor(model => model.Operation, new SelectList(Model.PossibleOperations, "Value", "Text"))
+                    <span asp-validation-for="Operation" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Calculate" class="btn btn-default" />
+                </div>
+
+                <p style="font-size: 2em;">@Model.Result</p>
+
+            </form>
+        </div>
+    </div>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
