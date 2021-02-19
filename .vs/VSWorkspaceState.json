@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MVCCalculator",
+    "\\MVCCalculator\\MVCCalculator"
   ],
+  "SelectedNode": "\\MVCCalculator\\MVCCalculator.sln",
   "PreviewInSolutionExplorer": false
 }
